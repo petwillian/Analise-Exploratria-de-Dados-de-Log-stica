@@ -1,5 +1,6 @@
 # Análise Exploratória de Dados de Logística
-![loggi](https://github.com/petwillian/An-lise-Explorat-ria-de-Dados-de-Log-stica/assets/44210315/65618ad6-b340-4837-80d6-bd6c4532dd5f)
+
+<img align="left" width="200" height="200" src="https://github.com/petwillian/An-lise-Explorat-ria-de-Dados-de-Log-stica/assets/44210315/65618ad6-b340-4837-80d6-bd6c4532dd5f">
 
 
 A Loggi e Uma empresa que usa a tecnologia para inovar os envios de pacotes para todo o Brasil com praticidade e no tempo que você precisa. Por aqui, a gente acredita que uma logística de qualidade é um direito de todas as pessoas.
